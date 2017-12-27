@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bac">#ffffff</color>
+    <color name="fragment_bac">#f0f0f0</color>
+    <color name="activity_bg_color">#fffafafa</color>
+    <color name="top_category_bar_background">#ffeeeeee</color>
+    <color name="divider">#ffdddddd</color>
+    <!-- 填充颜色 -->
+    <color name="dialog_bg">#EEEEEE</color>
+    <color name="dialog_bg_pressed">#3692E1</color>
+    <color name="dialog_item_bg">#EEEEEE</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="light_blue">#6593cb</color>
+    <color name="dialog_item_bg_pressed">#FE8003</color>
+    <!--赵法武加的颜色-->
+    <color name="light_blue_1">#70DAFE</color>
+    <color name="title_color">#28b4e3</color>
+    <color name="text_color">#FF000000</color>
+    <color name="transparent">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="title_bg_grey">#393a3e</color>
+
+    <!--仿IOS对话框的颜色-->
+    <color name="trans">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <!--niceSpinner-->
+    <color name="light_gray">#fff5f5f5</color>
+
+    <color name="blue_666e8a">#666e8a</color>
+    <color name="grey_bbbbbb">#bbbbbb</color>
+    <color name="praise">#576b95</color>
+</resources>

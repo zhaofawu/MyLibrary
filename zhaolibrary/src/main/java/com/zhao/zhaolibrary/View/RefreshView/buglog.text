@@ -1,0 +1,2 @@
+#1.0.0
+bug1:在子布局定义android:layout_margin 上拉加载无效，下拉刷新已经修复
