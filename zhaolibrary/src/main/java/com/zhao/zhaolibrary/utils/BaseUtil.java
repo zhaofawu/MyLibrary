@@ -327,4 +327,8 @@ public class BaseUtil {
         ArrayList<T> dest = (ArrayList<T>) in.readObject();
         return dest;
     }
+
+    public static String  test(){
+        return "测试";
+    }
 }
