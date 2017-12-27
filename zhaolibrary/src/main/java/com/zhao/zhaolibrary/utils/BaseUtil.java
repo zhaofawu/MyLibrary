@@ -328,7 +328,4 @@ public class BaseUtil {
         return dest;
     }
 
-    public static String  test(){
-        return "测试";
-    }
 }
